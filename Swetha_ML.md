@@ -1,6 +1,6 @@
 ## Machine Learning Topics
 ```
-  Regression
+ Regression
  Classification
  Naive Bayes
  Support Vector Machines
@@ -15,7 +15,7 @@
  Evaluation Metrics (Precision,Recall,F1)
 ```
 
-# NLP Topics
+## NLP Topics
 ```
  Text Tokenization and Normalization
  Feature Extractions : Bag Of Words (BOW) and Term Frequency-Inverse Document Frequency (TF-IDF)
@@ -24,3 +24,4 @@
  Text Classification
  Topic Modelling
  Text Similarity Metrics (Euclidean distance,Cosine similarity and Jaccard similarity)
+```
