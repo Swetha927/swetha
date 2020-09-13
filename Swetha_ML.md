@@ -15,8 +15,7 @@
 ```
 
 ## NLP Topics
-```
- Text Tokenization and Normalization
+```Text Tokenization and Normalization
  Feature Extractions : Bag Of Words (BOW) and Term Frequency-Inverse Document Frequency (TF-IDF)
  Word Embedding
  Sentiment Analysis
