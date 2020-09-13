@@ -21,5 +21,4 @@
  Sentiment Analysis
  Text Classification
  Topic Modelling
- Text Similarity Metrics (Euclidean distance,Cosine similarity and Jaccard similarity)
 ```
