@@ -1,18 +1,18 @@
-# Machine Learning Topics
+## Machine Learning Topics
 
 ####  Regression
-### Classification
-### Naive Bayes
-### Support Vector Machines
-### K-Nearest Neighbors
-### Decision Trees
-### Random Forests
-### Clustering
-### Boosting Algorithms
-### Model selection Techniques
-### Dimensionality Reduction Techniques
-### Association Rule Learning
-### Evaluation Metrics (Precision,Recall,F1)
+#### Classification
+#### Naive Bayes
+#### Support Vector Machines
+#### K-Nearest Neighbors
+#### Decision Trees
+#### Random Forests
+#### Clustering
+#### Boosting Algorithms
+#### Model selection Techniques
+#### Dimensionality Reduction Techniques
+#### Association Rule Learning
+#### Evaluation Metrics (Precision,Recall,F1)
 
 
 # NLP Topics
