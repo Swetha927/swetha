@@ -1,6 +1,6 @@
 # Machine Learning Topics
 
-### Regression
+####  Regression
 ### Classification
 ### Naive Bayes
 ### Support Vector Machines
